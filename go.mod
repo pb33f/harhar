@@ -1,3 +1,3 @@
-module github.com/pbnjay/harhar
+module github.com/pb33f/harhar
 
 go 1.20
